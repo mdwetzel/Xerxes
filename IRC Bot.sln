@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRC Bot", "IRC Bot\IRC Bot.csproj", "{E0D0B4A9-A770-4CB4-A133-9B7304A8F63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D0B4A9-A770-4CB4-A133-9B7304A8F63B}.Debug|x86.ActiveCfg = Debug|x86
+		{E0D0B4A9-A770-4CB4-A133-9B7304A8F63B}.Debug|x86.Build.0 = Debug|x86
+		{E0D0B4A9-A770-4CB4-A133-9B7304A8F63B}.Release|x86.ActiveCfg = Release|x86
+		{E0D0B4A9-A770-4CB4-A133-9B7304A8F63B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
